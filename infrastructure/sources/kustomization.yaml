@@ -4,3 +4,4 @@ namespace: flux-system
 resources:
   - azure-key-vault.yaml
   - aad-pod-identity.yaml
+  - istio.yaml
