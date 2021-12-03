@@ -5,5 +5,5 @@ resources:
   - gateway-namespace.yaml
   - release-base.yaml
   - release-istiod.yaml
-  # - release-gateway.yaml
   - release-logging.yaml
+  - release-gateway.yaml
